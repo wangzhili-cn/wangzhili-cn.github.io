@@ -7,9 +7,9 @@ icon: glyphicon-heart
 
 ### 关于我
 
-> 2015年我将步入找工作的大潮，希望做一个前端开发工程师。   
+> 希望做一个JAVA开发工程师。   
 
-在校硕士研究生一枚，就读于西安交通大学软件工程专业，2016年毕业。   
+湖北职业技术学院，信息技术学院，2017年毕业。   
 
 主要兴趣集中在前端开发，大前端的概念深入我心。将更多的业务逻辑放在前端中，这很有趣。同时，将自己构想的内容实现出来，这种感觉很愉快。   
 
@@ -23,12 +23,12 @@ icon: glyphicon-heart
 
 ### 联系我
 
-* email：[gaohaoyang126@126.com](mailto:{{ site.email }})
-* QQ：793940046
-* Weibo：[Haoyang](http://weibo.com/3115521wh)
-* 知乎：[Gaohaoyang](http://www.zhihu.com/people/gaohaoyang)
-* 豆瓣：[Gaohaoyang](http://www.douban.com/people/42525035/)
-* 豆瓣音乐人：[浩阳的小站](http://site.douban.com/haoyangaiyinyue/)
+* email：[wangzhili.cn@gmail.com](mailto:{{ site.email }})
+* QQ：2951312994
+* Weibo：[二十四桥n](http://weibo.com/5993561914/profile?topnav=1&wvr=6)
+* 知乎：[给我一杯咖啡](https://www.zhihu.com/people/gei-wo-yi-bei-ka-fei/activities)
+* 豆瓣：[暂无](#)
+* 豆瓣音乐人：[暂无](#)
 
 ---
 
